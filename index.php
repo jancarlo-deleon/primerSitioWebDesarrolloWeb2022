@@ -19,7 +19,7 @@
     <div id="menu">
         <nav>
             <ul>
-                <li> <a href="index.html">Bienvenida</a></li>
+                <li> <a href="index.php">Bienvenida</a></li>
                 <li> <a href="datospersonales.html">Datos Personales</a></li>
                 <li> <a href="experiencialaboral.html">Experiencia Laboral</a></li>
             </ul>
